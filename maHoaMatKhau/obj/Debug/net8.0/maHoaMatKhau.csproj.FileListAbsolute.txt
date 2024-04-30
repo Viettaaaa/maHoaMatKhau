@@ -1,0 +1,15 @@
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\obj\Debug\net8.0\maHoaMatKhau.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\obj\Debug\net8.0\maHoaMatKhau.AssemblyInfoInputs.cache
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\obj\Debug\net8.0\maHoaMatKhau.AssemblyInfo.cs
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\obj\Debug\net8.0\maHoaMatKhau.csproj.CoreCompileInputs.cache
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\bin\Debug\net8.0\maHoaMatKhau.exe
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\bin\Debug\net8.0\maHoaMatKhau.deps.json
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\bin\Debug\net8.0\maHoaMatKhau.runtimeconfig.json
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\bin\Debug\net8.0\maHoaMatKhau.dll
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\bin\Debug\net8.0\maHoaMatKhau.pdb
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\obj\Debug\net8.0\maHoaMatKhau.dll
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\obj\Debug\net8.0\refint\maHoaMatKhau.dll
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\obj\Debug\net8.0\maHoaMatKhau.pdb
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\obj\Debug\net8.0\maHoaMatKhau.genruntimeconfig.cache
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\obj\Debug\net8.0\ref\maHoaMatKhau.dll
+E:\ProjectTest\maHoaMatKhau\maHoaMatKhau\obj\Debug\net8.0\maHoaMatKhau.sourcelink.json

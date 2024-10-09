@@ -10,7 +10,7 @@ public static class StringExtensions
     static Dictionary<char, char> Dict_Create = new Dictionary<char, char>();
     static Dictionary<char, char> Dict_Decrypt = new Dictionary<char, char>();
 
-    // Tạo 2 từ điển Dict_Create và Dict_Decrypt đê ánh xạ các kí tự từ bản rõ sang bản mã và ngược lại
+    // Tạo 2 từ điển Dict_Create và Dict_Decrypt đê ánh xạ các kí tự từ bản rõ sang bản mã và ngược lạii
     public static void CreateDictionary()
     {
         for (int i = 0; i < Key.Length; i++)
